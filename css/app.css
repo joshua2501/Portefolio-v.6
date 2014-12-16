@@ -1,0 +1,70 @@
+/*
+===================================
+STYLE CSS : app.css
+===================================
+*/
+
+.relative {
+    position: relative;
+}
+.fixed {
+    position: fixed;
+}
+.absolute {
+    position: absolute;
+}
+.imgleft {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+.imgright {
+    float: right;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+.img {
+    border: none;
+}
+.center,
+.imgcenter {
+    display: block;
+    margin: 0 auto;
+}
+/* Flottants */
+
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+/* Dégager les flottants */
+
+.cleft {
+    clear: left;
+}
+.cright {
+    clear: right;
+}
+.clear {
+    display: block;
+    visibility: hidden;
+    clear: both;
+    overflow: hidden;
+    width: 0;
+    height: 0;
+}
+.clearfix:before,
+.clearfix:after {
+    display: table;
+    content: "";
+}
+.clearfix:after {
+    clear: both;
+}
+/* Bloc cliquable */
+
+.clickable {
+    cursor: pointer;
+}

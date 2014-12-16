@@ -1,0 +1,36 @@
+# humanstxt.org/
+
+--------------------------------
+/ * L'EQUIPE DE DEVELOPPEMENT * /
+--------------------------------
+
+Nom de société : Aucune.
+Nom/prénom : de MASCAREL Renaud.
+Poste : Développeur front-end.
+Site : http://www.renauddemascarel.com
+Mail : joshua2501@gmail.com
+Lieu : Paris, FRANCE.
+
+-------------
+/ * MERCI * /
+-------------
+
+Guillaume DIOT : http://www.guillaumediot.com/
+Openclassrooms : http://fr.openclassrooms.com/
+
+---------------
+/ * LE SITE * /
+---------------
+
+Version : v.6.1 (voir Changelog).
+Date de création : 16/01/2009.
+Dernière mise à jour : 28/11/2014.
+Langues : Français.
+
+-----------------
+/ * TECHNIQUE * /
+-----------------
+Doctype : HTML5.
+Composants : Aucun.
+Logiciels : EASYPHP, Brackets, FileZilla, Photoshop CS6.
+Navigateurs : Firefox, Firefox Developper edition, Chrome, Opera, Safari.

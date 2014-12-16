@@ -1,0 +1,83 @@
+/*
+===================================
+STYLE CSS : layout.css
+===================================
+*/
+
+/* Style général */
+
+/*html {}*/
+
+body {
+    margin: 0 auto;
+    width: 960px;
+    background: url(../src/img/design/fdscristeaux.png) repeat;
+}
+header {
+    height: 70px;
+}
+/* Navigation */
+
+nav {
+    margin: 20px;
+    text-align: center;
+}
+nav a {
+    padding: 0 10px 0 10px;
+}
+nav li {
+    display: inline-block;
+    border-right: 1px solid white;
+    list-style-type: none;
+}
+/* Contenu principal */
+
+/*aside {}
+
+section {}*/
+
+.conteneur {
+    border: 1px solid #373737;
+    border-radius: 0 0 10px 10px;
+    background-color: #252525;
+}
+article {
+    padding: 0 20px 0 20px;
+    text-align: justify;
+}
+/* Autres balises */
+
+.odt {
+    background-image: url("src/img/contenu/cvodt.png");
+}
+.rtf {
+    background-image: url("src/img/contenu/cvrtf.png");
+}
+.pdf {
+    background-image: url("src/img/contenu/cvpdf.png");
+}
+.portrait {
+    margin: 0 20px 0 0;
+    box-shadow: 0 0 15px 0 black;
+}
+.projet{
+    list-style-type: none;
+    border: 1px solid black;
+}
+/* Footer */
+
+footer {
+    height: 50px;
+    border-radius: 0 0 10px 10px;
+    background-color: #212121;
+    text-align: left;
+    font-size: 10px;
+}
+.footerleft {
+    float: left;
+    margin: 15px;
+}
+.footerright {
+    float: right;
+    margin: 10px;
+}

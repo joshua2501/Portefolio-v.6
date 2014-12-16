@@ -1,0 +1,20 @@
+Changelog
+=========
+
+Ce document décrit les changements et probleme entre chaque version du site.
+
+Version 6.2 ()
+-----------
+
+
+Version 6.1 (en cours)
+-----------
+
+- Ajout du fichier humans.TXT visible
+- MAJ de la structure et dossiers HTML complète.
+- Page "Magasinier" faite.
+- Page "Développeur Font-end" faite.
+- MAJ Google analystic.
+- MAJ vérification possession du site.
+
+BUGFIX : Aucun.
