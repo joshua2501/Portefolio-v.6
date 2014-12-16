@@ -5,7 +5,7 @@
 		********************************************************************************************
 	*/
 	// destinataire est votre adresse mail. Pour envoyer à plusieurs à la fois, séparez-les par une virgule
-	$destinataire = 'joshua2501@live.fr,joshua2501@gmail.com';
+	$destinataire = 'joshua2501@live.com,joshua2501@gmail.com';
 
 	// copie ? (envoie une copie au visiteur)
 	$copie = 'oui'; // 'oui' ou 'non'
@@ -68,7 +68,6 @@
 		$email   = (isset($_POST['email']))   ? Rec($_POST['email'])   : '';
 		$objet   = (isset($_POST['objet']))   ? Rec($_POST['objet'])   : '';
 		$message = (isset($_POST['message'])) ? Rec($_POST['message']) : '';
-
 
 		// On va vérifier les variables et l'email ...
 		$email = (IsEmail($email)) ? $email : ''; // soit l'email est vide si erroné, soit il vaut l'email entré
