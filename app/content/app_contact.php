@@ -7,7 +7,7 @@
 
         <!-- Do not change the code! -->
         <a id="foxyform_embed_link_151961" href="http://fr.foxyform.com/">foxyform</a>
-        <script type="text/javascript" class="center">
+        <script type="text/javascript" style="margin: 0 auto;">
             (function (d, t) {
                 var g = d.createElement(t),
                     s = d.getElementsByTagName(t)[0];
