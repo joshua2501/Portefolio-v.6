@@ -5,10 +5,10 @@
 		********************************************************************************************
 	*/
 	// destinataire est votre adresse mail. Pour envoyer à plusieurs à la fois, séparez-les par une virgule
-	$destinataire = "joshua2501@live.com,joshua2501@gmail.com";
+	$destinataire = 'joshua2501@live.com,joshua2501@gmail.com';
 
 	// copie ? (envoie une copie au visiteur)
-	$copie = "oui"; // 'oui' ou 'non'
+	$copie = 'oui'; // 'oui' ou 'non'
 
 	// Messages de confirmation du mail
 	$message_envoye = "Votre message nous est bien parvenu ! <a href=\"index.php\">retour a l'acceuil.</a>";
