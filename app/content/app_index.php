@@ -3,7 +3,7 @@
         <h2>Qui suis-je ?</h2>
         <img src="src/img/contenu/portrait.png" alt="renaud de mascarel" class="imgleft" class="portrait" />
         <p>
-             et je suis magasinier chez VDM, a Paris.
+            Je me nomme Renaud de MASCAREL et je suis magasinier chez VDM, a Paris.
         </p>
         <p>
             Vous trouverez sur ce site, que j'ai développer, toute mes informations professionnel en tant que <a href="magasinier.php">Magasinier</a> et <a href="developpeur.php">Développeur Front-end</a> en autodidacte.
