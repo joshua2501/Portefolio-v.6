@@ -1,6 +1,6 @@
 <section>
     <article>
-        <h2>Qui suis-je ?</h2>
+        <h2>Qui suis-je</h2>
         <img src="src/img/contenu/portrait.png" alt="renaud de mascarel" class="imgleft" class="portrait" />
         <p>
             Je me nomme Renaud de MASCAREL et je suis magasinier chez VDM, a Paris.
