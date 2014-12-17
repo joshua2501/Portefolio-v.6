@@ -1,8 +1,8 @@
 <section>
     <article>
-        <h2>Mes projets web</h2>
+        <h2>Mes projets</h2>
         <p>J'ai commencer à faire du développement web en 2009, grâce au siteduzero (aujourd'hui openclassrooms) de manière autodidacte. J'ai fait de nombreuses versions de mon portefolio ainsi que quelques sites pour des amis ou pour des projets personnel.</p>
-        <p>Après quelques sites développer, j'ai pus faire mon premier projet professionnels.</p>
+        <p>Après quelques sites développer, j'ai pus faire mon premier projet professionnels un site de gîtes : <a href="http://www.les-tardes.com/">Les Tardes</a>.</p>
 <!--
         <p>juillet 2011 Les TARDES v.1</p>
         <p>juillet 2013 Les TARDES v.2</p>
@@ -18,7 +18,7 @@
 <span class="clear"></span>
         <h2>Mes Nouvelles/Romans</h2>
         <table>
-            <caption class="caps">keiiser velycte t1 : Le naufragé des dunes</caption>
+            <caption class="caps">Le monde de MyS <br />keiiser velycte t1 : Le naufragé des dunes</caption>
             <tbody>
                 <tr>
                     <td>Synopsis :</td>
