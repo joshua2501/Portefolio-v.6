@@ -1,7 +1,6 @@
 <section>
     <article>
         <h2>Développeur Front-end</h2>
-        <img src="src/img/contenu/developpeur.png" alt="developpeur" class="center">
 
         <p>Le développeur Front-end est un informaticien chargé de réaliser l’ensemble des fonctionnalités d’un site Internet. Il s’agit d’un technicien en charge d’analyser les besoins, de choisir la solution technique puis de développer toutes les fonctionnalités techniques du site. De façon complémentaire, il participe également à la formation du client et au support technique tout au long de la vie du site Internet.</p>
 

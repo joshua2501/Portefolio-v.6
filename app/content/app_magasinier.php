@@ -2,8 +2,6 @@
     <article>
         <h2>Magasinier</h2>
 
-        <img src="src/img/contenu/magasinier.png" alt="magasinier" class="center">
-
         <p><u>Position dans l'organigramme :</u></p>
         <ul>
             <li>Le magasinier reporte au directeur de la fabrication.</li>

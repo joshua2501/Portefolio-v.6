@@ -1,7 +1,6 @@
 <section>
     <article>
         <h2>Quelques conseils pour préparer un entretien d'embauche</h2>
-        <img src="src/img/contenu/entretien.png" alt="entretien" class="center">
 
         <p>Bonjour, vous etent a la recherche de travail ? Mais vous ne savez pas comment vous y prendre lors d'un entretien ? Vous avez peur de tout raté ?
             Je ne suis pas un pro mais je peut vous donnez quelques conseils... (cela s'applique aux hommes comme aux femmes).</p>

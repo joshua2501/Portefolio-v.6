@@ -1,8 +1,7 @@
 <section>
     <article>
-
         <h2>Les questions les plus souvent posées</h2>
-        <img src="src/img/contenu/entretienembauche.png" alt="magasinier" class="center">
+
         <p>
             On vous pose une question et vous ne savais pas quoi répondre ? Ne soyez pas pris au dépourvue !
         </p>
