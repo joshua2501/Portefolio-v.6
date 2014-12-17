@@ -1,8 +1,8 @@
 <section>
     <article>
         <h2>Les mentions légals</h2>
-        <p class="center">Le présent <a href="http://www.renauddemascarel.com">site</a> est la propriété de Renaud de mascarel (développeur Front-end).</p>
-        <p class="center">
+        <p>Le présent <a href="http://www.renauddemascarel.com">site</a> est la propriété de Renaud de mascarel (développeur Front-end).</p>
+        <p>
             Le prestataire assurant l'hébergement du site est la société <a href="http://www.olympe.in">OLYMPE</a>
             dont le siége social se trouve au :<br />
             31 avenue Sainte Victoire.<br />
@@ -10,8 +10,7 @@
             France.<br />
             N° de l'association : 20070028.
         </p>
-
-        <p class="center">
+        <p>
             Le registrar est <a href="http://www.amen.fr ">AMEN SAS.</a><br />
             12-14, Rond Point des Champs Elysées.<br />
             75008 Paris.<br />
