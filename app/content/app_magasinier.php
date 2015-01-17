@@ -28,7 +28,7 @@
             <li>Stocker les éléments : éléments entrants et éléments fabriqués par les services de VDM. Recherches d'emplacement, rangement physique des éléments à l'emplacement désigné.</li>
             <li>Gérer les emplacements de stock pour éviter l'engorgement de celui-ci.</li>
             <li>Préparer les envois réguliers vers le stock des ULIS. Sortie informatique et physique des bandes du stock des ULIS. Rangement dans des bacs pour envoi aux ULIS.</li>
-            <li>Mouvementer informatiquement toutes les bandes antrant ou sortant du stock.</li>
+            <li>Mouvementer informatiquement toutes les bandes entrant ou sortant du stock.</li>
             <li>De façon générale, maintenir à jour la base informatique de gestion du stock VDM.</li>
         </ul>
 
@@ -42,7 +42,7 @@
         <ul>
             <li>Rapprocher les éléments physiques des demandes informatiques de livraison.</li>
             <li>Mettre sous plis ou en carton les éléments à livrer.</li>
-            <!--li>Organiser les tournées des voitures navettes de VDM. Par tranches horaires et localisation des points de livraison.</li-->
+            <li>Organiser les tournées des voitures navettes de VDM. Par tranches horaires et localisation des points de livraison.</li>
             <li>Commander les coursiers moto en fonction des sollicitations des personnels demandeurs.</li>
             <li>Editer des bons de livraison et mouvementer les éléments.</li>
         </ul>
