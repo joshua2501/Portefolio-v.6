@@ -6,6 +6,7 @@
     </div>
 
     <div class="footerright">
+        <a href="https://insight.sensiolabs.com/"><img src="https://insight.sensiolabs.com/projects/9d139e36-f4c9-48a7-b56d-9a2d9755cc34/small.png" /></a>
         <a target="_blank" href="humans.txt" ><img src="src/img/contenu/humanstxt.png" alt="humans.txt" title="La team de développement" /></a>
         <a target="_blank" href="http://fr.linkedin.com/in/renauddemascarel" ><img src="src/img/contenu/linkedin.png" alt="linkedin" title="Suivez moi sur Linkedin" /></a>
         <a target="_blank" href="http://fr.viadeo.com/fr/profile/renaud.de-mascarel"><img src="src/img/contenu/viadeo.png" alt="viadeo" title="Suivez moi sur Viadéo"/></a>

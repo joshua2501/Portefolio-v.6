@@ -7,4 +7,3 @@
         <iframe src="http://fr.foxyform.com/form.php?id=151961&amp;sec_hash=d6c3c0ffa2e" width="350px" height="446px" style="border: none;margin-left: 280px;" frameborder="0" kwframeid="1"></iframe>
     </article>
 </section>
-
