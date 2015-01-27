@@ -14,7 +14,7 @@
     <meta name="description" content="Portefolio de Renaud de MASCAREL, développeur Front-end sur Paris" />
     <meta name="keywords" content="renaud de mascarel, portfolio, html 5, css 3, html, css, webmaster, developpeur web, france, paris, developpeur paris" />
 
-    <? php include( "app/includes/meta.php") ?>
+    <?php include( "app/includes/meta.php") ?>
 
 </head>
 <!-- fin head -->
